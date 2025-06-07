@@ -1,7 +1,7 @@
 
 <img src="mybanner2107.png" alt="GitHub Banner" width="100%" />
 
-# 🛰️ Transmission Incoming—Reach Me Here 🔗
+## 🛰️ Transmission Incoming—Reach Me Here 🔗
 <a href="https://www.linkedin.com/in/v1vek-y4dav/"><img align="left" src="linkedin.png" alt="LinkedIn" width="35px"/></a>
 <a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 <a href="https://x.com/VIVEKxxi"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/twitter.png" alt="VIVEKxxi | X (Twitter)" width="35px"/></a>
@@ -10,10 +10,9 @@
 <a href="https://leetcode.com/u/V1VEK_/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/leetcode.png" alt="V1VEK_ | LeetCode" width="35px"/></a>
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
 <br>
+<br>
 
-
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
