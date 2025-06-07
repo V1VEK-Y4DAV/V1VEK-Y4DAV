@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 <a href="https://x.com/VIVEKxxi"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/twitter.png" alt="VIVEKxxi | X (Twitter)" width="35px"/></a>
 <a href="https://github.com/v1vek-y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/github.png" alt="v1vek-y4dav | GitHub" width="35px"/></a><a href="mailto:vivekkuyadav21@gmail.com"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/gmail.png" alt="Vivek Yadav | Gmail" width="35px"/></a>
+<a href="https://www.facebook.com/v1vek.y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/facebook.png" alt="v1vek.y4dav | Facebook" width="35px"/></a>
 <a href="https://leetcode.com/u/V1VEK_/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/leetcode.png" alt="V1VEK_ | LeetCode" width="35px"/></a>
 <br>
 
