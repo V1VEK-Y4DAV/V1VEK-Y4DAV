@@ -2,8 +2,10 @@
 <img src="mybanner2107.png" alt="GitHub Banner" width="100%" />
 
 # 🛰️ Transmission Incoming—Reach Me Here 🔗
-<a href="https://www.linkedin.com/in/v1vek-y4dav/"><img src="linkedin.png" alt="LinkedIn" width="35px"/></a>
-<a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a><br>
+<a href="https://www.linkedin.com/in/v1vek-y4dav/"><img align="left" src="linkedin.png" alt="LinkedIn" width="35px"/></a>
+<a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
+<a href="https://x.com/VIVEKxxi"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/twitter.png" alt="VIVEKxxi | X (Twitter)" width="35px"/></a>
+<a href="https://github.com/v1vek-y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/github.png" alt="v1vek-y4dav | GitHub" width="35px"/></a><a href="mailto:vivekkuyadav21@gmail.com"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/gmail.png" alt="Vivek Yadav | Gmail" width="35px"/></a><br>
 
 
 
