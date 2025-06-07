@@ -20,13 +20,13 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-  ## 🐍 Contribution Snake
+  ## 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake.svg" alt="snake" width="1800"/>
+  <p align="center"><em>“Coding is like a snake — it keeps moving, evolving, and growing!”</em></p>
+</p>
 
-![snake gif](https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake.svg)
 
-<!-- Dark mode ke liye optional 
-![snake dark gif](https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
--->
 
 
 <!--
