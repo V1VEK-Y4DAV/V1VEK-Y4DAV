@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roz raat 12 baje chalega
-  workflow_dispatch:     # Manual run ka option bhi
+    - cron: "0 0 * * *" 
+  workflow_dispatch:  
 
 jobs:
   generate:
@@ -12,7 +12,7 @@ jobs:
       - name: Generate GitHub Snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: V1VEK-Y4DAV  # Yahan aapka username daala gaya hai
+          github_user_name: V1VEK-Y4DAV  
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
