@@ -45,18 +45,25 @@
 
 ## 📊 GitHub Stats of Vivek Yadav
 
-<div align="center">
+<p align="center">
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  <!-- GitHub Stats -->
+  <span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  </span>
 
-<!-- GitHub Streak -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
+  <!-- GitHub Streak -->
+  <span>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
+  </span>
 
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
+  <!-- Top Languages -->
+  <span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
+  </span>
 
-</div>
+</p>
+
 
 ---
 
