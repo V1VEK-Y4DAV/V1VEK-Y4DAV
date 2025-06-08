@@ -45,24 +45,21 @@
 
 ## 📊 GitHub Stats of Vivek Yadav
 
+<!-- Row 1: Stats and Streak -->
 <p align="center">
-
-  <!-- GitHub Stats -->
   <span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
   </span>
-
-  <!-- GitHub Streak -->
   <span>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
   </span>
-
-  <!-- Top Languages -->
-  <span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
-  </span>
-
 </p>
+
+<!-- Row 2: Languages centered -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
+</p>
+
 
 
 ---
