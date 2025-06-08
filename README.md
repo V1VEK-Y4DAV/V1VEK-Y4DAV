@@ -35,7 +35,16 @@
   <p align="center"><em>“Coding is like a snake — it keeps moving, evolving, and growing!”</em></p>
 </p>
 
+## 📊 GitHub Stats of Vivek Yadav
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="50%" alt="Top Languages"/>
+</p>
 
 
 <!--
