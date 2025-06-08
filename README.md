@@ -48,17 +48,18 @@
 <!-- Row 1: Stats and Streak -->
 <p align="center">
   <span>
-    <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+    <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
   </span>
   <span>
-    <img height="180em" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
+    <img height="150em" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
   </span>
 </p>
 
 <!-- Row 2: Languages centered -->
 <p align="center">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
+  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
 </p>
+
 
 
 
