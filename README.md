@@ -1,6 +1,8 @@
 
 <img src="mybanner2107.png" alt="GitHub Banner" width="100%" />
 
+---
+
 ## 🛰️ Transmission Incoming—Reach Me Here 🔗
 <a href="https://www.linkedin.com/in/v1vek-y4dav/"><img align="left" src="linkedin.png" alt="LinkedIn" width="35px"/></a>
 <a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
@@ -11,6 +13,8 @@
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
 <br>
 <br>
+
+---
 
 ## 💻 Tech Stack:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,22 +33,49 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
+
   ## 🐍 My GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake.svg" alt="snake" width="1800"/>
   <p align="center"><em>“Coding is like a snake — it keeps moving, evolving, and growing!”</em></p>
 </p>
 
+---
+
 ## 📊 GitHub Stats of Vivek Yadav
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+
+<!-- GitHub Streak -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="50%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=V1VEK-Y4DAV&theme=tokyonight&no-frame=true&column=6" />
 </p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V1VEK-Y4DAV&theme=tokyonight&hide_border=false&area=true&point=ff9494&color=00e5ff&line=00bfff&bg_color=0d1117" />
+</p>
+
+
+---
 
 
 <!--
