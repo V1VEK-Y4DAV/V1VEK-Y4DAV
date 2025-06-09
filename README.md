@@ -37,7 +37,7 @@
 
 ---
 
-  ## 🐍 GitHub Contribution Snake Animation
+  ## 🐍 GitHub Contribution Snake Animation 
 <p align="center">
   <img src="https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake.svg" alt="snake" width="1800"/>
   <p align="center"><em>“Coding is like a snake — it keeps moving, evolving, and growing!”</em></p>
@@ -62,7 +62,9 @@
   <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
 </p>
 
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=V1VEK-Y4DAV.V1VEK-Y4DAV&style=flat-square" />
+</p>
 
 
 ---
