@@ -32,6 +32,8 @@
   ![Excel](https://img.shields.io/badge/Excel-%231D6F42.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
