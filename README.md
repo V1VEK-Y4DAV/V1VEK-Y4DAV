@@ -37,6 +37,10 @@
 
 ---
 
+## 🏆 Certifications
+
+---
+
   ## 🐍 GitHub Contribution Snake Animation 
 <p align="center">
   <img src="https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake.svg" alt="snake" width="1800"/>
