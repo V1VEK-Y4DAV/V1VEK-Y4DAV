@@ -44,10 +44,7 @@ yet to add.......
 ---
 
   ## 🐍 GitHub Contribution Snake Animation 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/V1VEK-Y4DAV/V1VEK-Y4DAV/output/github-contribution-grid-snake.svg" alt="snake" width="1800"/>
-  <p align="center"><em>“Coding is like a snake — it keeps moving, evolving, and growing!”</em></p>
-</p>
+
 
 ---
 
