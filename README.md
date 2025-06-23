@@ -1,5 +1,5 @@
 
-<img src="mybanner2107.png" alt="GitHub Banner" width="100%" />
+<img src="mybanner2107.png" alt="GitHub Banner" width="100%"/>
 
 ---
 
@@ -34,12 +34,6 @@
   ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-
----
-
-## 🏆 Certifications
-
-yet to add.......
 
 ---
 
@@ -92,8 +86,15 @@ yet to add.......
 
 ---
 
-
 <!--
+## 🏆 Certifications
+
+yet to add.......
+
+---
+
+
+
 **V1VEK-Y4DAV/V1VEK-Y4DAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
