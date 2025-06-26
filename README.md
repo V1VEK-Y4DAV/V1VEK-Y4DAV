@@ -10,6 +10,7 @@
 <a href="https://github.com/v1vek-y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/git.png" alt="v1vek-y4dav | GitHub" width="35px"/></a><a href="mailto:vivekkuyadav21@gmail.com"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/gmail.png" alt="Vivek Yadav | Gmail" width="35px"/></a>
 <a href="https://www.facebook.com/v1vek.y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/facebook.png" alt="v1vek.y4dav | Facebook" width="35px"/></a>
 <a href="https://leetcode.com/u/V1VEK_/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/leetcode.png" alt="V1VEK_ | LeetCode" width="35px"/></a>
+<a href="https://codolio.com/profile/V1VEK-Y4DAV" target="_blank"><img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio Profile" style="height: 35px;"></a>
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
 <br>
 <br>
