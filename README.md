@@ -72,8 +72,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V1VEK-Y4DAV&theme=tokyonight&no-frame=true&column=6" />
+ <p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=V1VEK-Y4DAV&theme=ayu-mirage&no-frame=true&column=6&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies"
+/>
 </p>
 
 ---
