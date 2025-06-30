@@ -12,6 +12,7 @@
 <a href="https://leetcode.com/u/V1VEK_/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/leetcode.png" alt="V1VEK_ | LeetCode" width="35px"/></a>
 <a href="https://codolio.com/profile/V1VEK-Y4DAV"><img align="left" src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio Profile" style="height: 35px;"></a>
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
+<a href="https://www.reddit.com/user/ConcentrateReal6872/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/reddit.png" alt="Vivek Yadav | Reddit" width="35px"/></a>
 <br>
 <br>
 
