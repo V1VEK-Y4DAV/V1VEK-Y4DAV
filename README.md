@@ -83,7 +83,7 @@
 </p>
 
 ---
-
+<!--
 ## 📈 Contribution Activity Graph
 
 <p align="center">
@@ -93,7 +93,7 @@
 
 ---
 
-<!--
+
 ## 🏆 Certifications
 
 yet to add.......
