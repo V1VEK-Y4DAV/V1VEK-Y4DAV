@@ -82,8 +82,8 @@
 />
 </p>
 
----
 <!--
+---
 ## 📈 Contribution Activity Graph
 
 <p align="center">
