@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="mybanner2107.png" alt="GitHub Banner" width="800" length="200" />
-</div>
-<!-- <img src="mybanner2107.png" alt="GitHub Banner" width="100%"/> -->
+</div> -->
+<img src="mybanner2107.png" alt="GitHub Banner" width="100%"/>
 
 ---
 
