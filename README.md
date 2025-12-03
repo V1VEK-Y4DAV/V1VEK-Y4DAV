@@ -9,9 +9,8 @@
 <a href="https://www.linkedin.com/in/v1vek-y4dav/"><img align="left" src="linkedin.png" alt="LinkedIn" width="35px"/></a>
 <a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 <a href="https://v1-verse.vercel.app"><img align="left" src="v1verse.png" alt="V1 Verse" width="35px"/></a>
-
-<a href="https://x.com/VIVEKxxi"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/x.png" alt="VIVEKxxi | X (Twitter)" width="35px"/></a>
 <a href="https://github.com/v1vek-y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/git.png" alt="v1vek-y4dav | GitHub" width="35px"/></a><a href="mailto:vivekkuyadav21@gmail.com"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/gmail.png" alt="Vivek Yadav | Gmail" width="35px"/></a>
+<a href="https://x.com/VIVEKxxi"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/x.png" alt="VIVEKxxi | X (Twitter)" width="35px"/></a>
 <a href="https://www.facebook.com/v1vek.y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/facebook.png" alt="v1vek.y4dav | Facebook" width="35px"/></a>
 <a href="https://leetcode.com/u/V1VEK_/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/leetcode.png" alt="V1VEK_ | LeetCode" width="35px"/></a>
 <a href="https://codolio.com/profile/V1VEK-Y4DAV"><img align="left" src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio Profile" style="height: 35px;"></a>
