@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="mybanner2107.png" alt="GitHub Banner" width="700" length="170" />
+  <img src="mybanner2107.png" alt="GitHub Banner" width="100%"  />
 </div>
 
 ---
