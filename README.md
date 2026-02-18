@@ -55,7 +55,25 @@
 
 ## 📊 GitHub Stats
 
+<!-- Row 1: Stats and Streak -->
+<p align="center">
+  <span>
+    <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=V1VEK-Y4DAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  </span>
+  <span>
+    <img height="150em" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=V1VEK-Y4DAV&theme=tokyonight&hide_border=false" />
+  </span>
+</p>
 
+<!-- Row 2: Languages centered -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1VEK-Y4DAV&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" style="width: 800px;"/>
+</p>
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=V1VEK-Y4DAV.V1VEK-Y4DAV&style=flat-square" />
+</p>
 
 
 ---
