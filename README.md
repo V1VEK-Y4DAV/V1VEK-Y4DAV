@@ -42,6 +42,7 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
   ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-%2300AEFF.svg?style=for-the-badge&logo=code&logoColor=white)
   ![Qoder](https://img.shields.io/badge/Qoder-%5634AEFF.svg?style=for-the-badge&logo=code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
