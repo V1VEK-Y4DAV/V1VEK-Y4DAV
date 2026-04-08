@@ -18,7 +18,6 @@
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
 <a href="https://www.reddit.com/user/ConcentrateReal6872/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/reddit.png" alt="Vivek Yadav | Reddit" width="35px"/></a>
 <br>
-<br>
 
 ---
 
