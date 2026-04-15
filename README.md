@@ -7,7 +7,6 @@
 
 ## 🛰️ Transmission Incoming—Reach Me Here 🔗
 <a href="https://www.linkedin.com/in/v1vek-y4dav/"><img align="left" src="linkedin.png" alt="LinkedIn" width="35px"/></a>
-<a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 <a href="https://v1-verse.vercel.app"><img align="left" src="v1verse.png" alt="V1 Verse" width="35px"/></a>
 <a href="https://github.com/v1vek-y4dav"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/git.png" alt="v1vek-y4dav | GitHub" width="35px"/></a><a href="mailto:vivekkuyadav21@gmail.com"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/gmail.png" alt="Vivek Yadav | Gmail" width="35px"/></a>
 <a href="https://x.com/VIVEKxxi"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/x.png" alt="VIVEKxxi | X (Twitter)" width="35px"/></a>
@@ -18,6 +17,7 @@
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
 <a href="https://www.reddit.com/user/ConcentrateReal6872/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/reddit.png" alt="Vivek Yadav | Reddit" width="35px"/></a>
 <br>
+<a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 
 ---
 
