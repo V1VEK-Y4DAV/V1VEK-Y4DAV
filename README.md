@@ -15,9 +15,9 @@
 <a href="https://www.geeksforgeeks.org/profile/vivekkuy8ju4"><img align="left" src="GeeksforGeeks.svg" alt="GeeksforGeeks" height="35"/></a>
 <a href="https://codolio.com/profile/V1VEK-Y4DAV"><img align="left" src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio Profile" style="height: 35px;"></a>
 <a href="https://www.quora.com/profile/Vivek-Yadav-7153"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/quora.png" alt="Vivek Yadav | Quora" width="35px"/></a>
+<a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 <a href="https://www.reddit.com/user/ConcentrateReal6872/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/reddit.png" alt="Vivek Yadav | Reddit" width="35px"/></a>
 <br>
-<a href="https://www.instagram.com/v1vek_y/"><img align="left" src="https://raw.githubusercontent.com/v1vek-y4dav/v1vek-y4dav/main/instagram.png" alt="v1vek_y | Instagram" width="35px"/></a>
 
 ---
 
