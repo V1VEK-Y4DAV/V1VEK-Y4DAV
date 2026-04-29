@@ -100,11 +100,6 @@
 
 
 
-## 🏆 Certifications
-
-yet to add.......
-
----
 
 
 
