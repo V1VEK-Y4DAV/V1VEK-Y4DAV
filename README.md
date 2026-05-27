@@ -4,6 +4,22 @@
 </div>
 
 ---
+<!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
+<br><br>
+- 🔭 I’m currently working on ... <br>
+- 🌱 I’m currently learning ...<br>
+- 🔭 I’m currently working on ... <br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br>
+- 🔭 I’m currently working on ... <br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br> -->
+
+---
 
 ## 🛰️ Transmission Incoming—Reach Me Here 🔗
 <a href="https://www.linkedin.com/in/v1vek-y4dav/"><img align="left" src="linkedin.png" alt="LinkedIn" width="35px"/></a>
